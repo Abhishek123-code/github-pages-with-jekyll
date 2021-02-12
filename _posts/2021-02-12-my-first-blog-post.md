@@ -1,5 +1,5 @@
 ---
-title: "GAMES GEEk"
+title: "GAME GEEK"
 date: 2021-02-12
 ---
 Supercars Championship
